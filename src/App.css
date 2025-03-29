@@ -1,0 +1,17 @@
+@import url('https://rsms.me/inter/inter.css');
+@import "tailwindcss";
+
+/* global.css or App.css */
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #F9F9FE !important;
+    overflow-x: hidden;
+  }
+
+  :root {
+    background-color: #F9F9FE;
+  }
+  
+  
