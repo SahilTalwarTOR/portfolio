@@ -1,0 +1,15 @@
+{
+    "type": {
+        "cs": {
+            "experience": [ {
+                "title": "Rattish",
+                "text": "About Created for the CIHR Grant-awarded Blood Brain Barrier Lab in Halifax, Rattish simplifies rat behavioral data tracking. Built with C#, it integrates video playback, real-time key tracking, and automated Excel export, offering precise timestamps, seamless data management, and an intuitive interface"
+            },
+            {
+                "title": "RATLab",
+                "text": "Software designed to streamline rat data tracking and automate the creation of Excel spreadsheets using .NET WindowsForms. This tool enhances efficiency by integrating data management and reporting features seamlessly."
+            }
+        ]
+        }
+    }
+}
